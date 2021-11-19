@@ -28,6 +28,7 @@ IncludeFile stanzas/datacite.txt
 IncludeFile stanzas/dbms.txt
 IncludeFile stanzas/degruyter.txt
 IncludeFile stanzas/demografija.txt
+IncludeFile stanzas/deslibris.txt
 IncludeFile stanzas/dialnet.txt
 IncludeFile stanzas/doaj.txt
 IncludeFile stanzas/dukepress.txt
@@ -78,8 +79,10 @@ IncludeFile stanzas/muse.txt
 IncludeFile stanzas/nber.txt
 IncludeFile stanzas/ncph.txt
 IncludeFile stanzas/nexos.txt
+IncludeFile stanzas/Newsbank.txt
 IncludeFile stanzas/nomoselibrary.txt
 IncludeFile stanzas/oeaw.txt
+IncludeFile stanzas/ofcesciencespo.txt
 IncludeFile stanzas/oip.txt
 IncludeFile stanzas/oldenbourg.txt
 IncludeFile stanzas/olschki.txt
@@ -114,6 +117,7 @@ IncludeFile stanzas/societehistoiretheatre.txt
 IncludeFile stanzas/SpringerLink.txt
 IncludeFile stanzas/springeropen.txt
 IncludeFile stanzas/statisticky-urad.txt
+IncludeFile stanzas/steiner-verlag.txt
 IncludeFile stanzas/summa-upsa.txt
 IncludeFile stanzas/tandf.txt
 IncludeFile stanzas/tandfebooks.txt
@@ -124,9 +128,9 @@ IncludeFile stanzas/ucp.txt
 IncludeFile stanzas/uni-tuebingen.txt
 IncludeFile stanzas/unizar.txt
 IncludeFile stanzas/university-press-of-chicago.txt
+IncludeFile stanzas/unsta.txt
 IncludeFile stanzas/vandenhoeck-ruprecht.txt
 IncludeFile stanzas/vitaepensiero.txt
 IncludeFile stanzas/VLeBooks.txt
 IncludeFile stanzas/wanfangdata.txt
 IncludeFile stanzas/wiley-blackwell.txt
-

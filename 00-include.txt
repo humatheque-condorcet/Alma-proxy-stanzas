@@ -2,10 +2,12 @@ IncludeFile stanzas/adeh.txt
 IncludeFile stanzas/aeaweb.txt
 IncludeFile stanzas/aibr.txt
 IncludeFile stanzas/ajph.txt
+IncludeFile stanzas/alterstice.txt
 IncludeFile stanzas/ash.txt
 IncludeFile stanzas/alexanderstreet.txt
 IncludeFile stanzas/alexanderstreetmarcrecords.txt
 IncludeFile stanzas/alternativeseconomiques.txt
+IncludeFile stanzas/annalesislamologiques.txt
 IncludeFile stanzas/annualreviews.txt
 IncludeFile stanzas/berghahnbooks.txt
 IncludeFile stanzas/bihr.txt
@@ -30,6 +32,7 @@ IncludeFile stanzas/degruyter.txt
 IncludeFile stanzas/demografija.txt
 IncludeFile stanzas/deslibris.txt
 IncludeFile stanzas/dialnet.txt
+IncludeFile stanzas/diversuniversitecanada.txt
 IncludeFile stanzas/doaj.txt
 IncludeFile stanzas/dukepress.txt
 IncludeFile stanzas/dunckerhumblot.txt
@@ -46,12 +49,14 @@ IncludeFile stanzas/erudit.txt
 IncludeFile stanzas/erwinrauner.txt
 IncludeFile stanzas/EsperantoStudies.txt
 IncludeFile stanzas/europresse.txt
+IncludeFile stanzas/ExactEditions.txt
 IncludeFile stanzas/factiva.txt
 IncludeFile stanzas/fpaindia.txt
 IncludeFile stanzas/fupress.txt
 IncludeFile stanzas/gale.txt
 IncludeFile stanzas/gesis.txt
 IncludeFile stanzas/glossa.txt
+IncludeFile stanzas/glottopole.txt
 IncludeFile stanzas/hrcak.txt
 IncludeFile stanzas/hcsp.txt
 IncludeFile stanzas/ingentaconnect.txt
@@ -96,6 +101,7 @@ IncludeFile stanzas/pcdnet.txt
 IncludeFile stanzas/peeters.txt
 IncludeFile stanzas/pennpress.txt
 IncludeFile stanzas/persee.txt
+IncludeFile stanzas/Populationetsocietes.txt
 IncludeFile stanzas/projecteuclid.txt
 IncludeFile stanzas/proquest.txt
 IncludeFile stanzas/proquestebookcentral.txt
@@ -103,7 +109,9 @@ IncludeFile stanzas/renmin-ribao.txt
 IncludeFile stanzas/rivisti.txt
 IncludeFile stanzas/sage.txt
 IncludeFile stanzas/ravignani.txt
+IncludeFile stanzas/regards.txt
 IncludeFile stanzas/retronews.txt
+IncludeFile stanzas/RevistasUniversidadNacionalDeColombia.txt
 IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revistas-ucm.txt
 IncludeFile stanzas/RevueFrancaiseMethodesVisuelles.txt
@@ -112,6 +120,7 @@ IncludeFile stanzas/royalsocietypublishing.txt
 IncludeFile stanzas/santeettravail.txt
 IncludeFile stanzas/scholarworks.txt
 IncludeFile stanzas/scielo.txt
+IncludeFile stanzas/sciencesetactionssociales.txt
 IncludeFile stanzas/serialsjournals.txt
 IncludeFile stanzas/societehistoiretheatre.txt
 IncludeFile stanzas/SpringerLink.txt

@@ -1,6 +1,4 @@
 Title Austrian Academy of Sciences
-H hw.oeaw.ac.at
-D oeaw.ac.at
 HJ hw.oeaw.ac.at
 DJ oeaw.ac.at
 

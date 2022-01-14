@@ -4,11 +4,13 @@ HJ http://cognet.mit.edu
 H https://cognet.mit.edu
 H http://leoalmanac.org
 H http://mitpress.mit.edu
+H https://direct.mit.edu/rest
 HJ https://mitpress.mit.edu
 H http://mitpressjournals.org
 HJ http://www.leoalmanac.org
 HJ https://www.leonardo.info
 H http://www.mitpressjournals.org
 HJ https://www.mitpressjournals.org
+HJ https://direct.mit.edu/rest
 DJ leoalmanac.org
 DJ mitpressjournals.org

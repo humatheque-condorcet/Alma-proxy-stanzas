@@ -1,5 +1,4 @@
 Title KISS - Korea Information Science Society
-H kiss.kstudy.com  
+H https://kiss.kstudy.com
 HJ kiss.kstudy.com  
-D kstudy.com  
 DJ kstudy.com  

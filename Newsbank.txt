@@ -1,2 +1,3 @@
-Title Newsbank
+Title Newsbank-Readex
 H https://infoweb.newsbank.com
+H http://infoweb.newsbank.com

@@ -1,9 +1,5 @@
-#Title Gale
-#H https://find.gale.com
-#U https://find.gale.com
 Title -hide Gale/Infotrac/PowerSearch Databases
 URL http://infotrac.gale.com
-H https://find.gale.com
 HJ access.gale.com
 HJ auth.go.gale.com
 HJ bi.gale.com
@@ -150,3 +146,4 @@ HJ https://worldscholar.galegroup.com
 DJ galegroup.com
 NeverProxy rs.find.galegroup.com
 NeverProxy terc.nelnetsolutions.com
+

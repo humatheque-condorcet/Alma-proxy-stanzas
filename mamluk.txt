@@ -1,6 +1,2 @@
 Title Mamluk
-H mamluk.uchicago.edu   
-D uchicago.edu  
-
-
-
+URL http://mamluk.uchicago.edu   

@@ -4,6 +4,7 @@ HJ bihr.droz.org
 HJ calvin.droz.org
 HJ droz.org
 HJ revues.droz.org
+H revues.droz.org
 HJ https://calvin.droz.org
 HJ https://droz.org
 HJ https://revues.droz.org

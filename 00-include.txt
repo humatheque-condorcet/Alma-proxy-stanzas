@@ -1,7 +1,9 @@
+IncludeFile stanzas/acta-koreana.txt
 IncludeFile stanzas/adeh.txt
 IncludeFile stanzas/aeaweb.txt
 IncludeFile stanzas/aibr.txt
 IncludeFile stanzas/ajph.txt
+IncludeFile stanzas/ajrh.txt
 IncludeFile stanzas/alterstice.txt
 IncludeFile stanzas/ash.txt
 IncludeFile stanzas/alexanderstreet.txt
@@ -26,6 +28,7 @@ IncludeFile stanzas/classiques-garnier.txt
 IncludeFile stanzas/cnki.txt
 IncludeFile stanzas/cresoi.txt
 IncludeFile stanzas/currenthistory.txt
+IncludeFile stanzas/daily-graphic.txt
 IncludeFile stanzas/datacite.txt
 IncludeFile stanzas/dbms.txt
 IncludeFile stanzas/degruyter.txt
@@ -93,6 +96,7 @@ IncludeFile stanzas/oldenbourg.txt
 IncludeFile stanzas/olschki.txt
 IncludeFile stanzas/onlineegyptologicalbibliography.txt
 IncludeFile stanzas/openedition.txt
+IncludeFile stanzas/oral-history.txt
 IncludeFile stanzas/oxfordartonline.txt
 IncludeFile stanzas/oxfordmusiconline.txt
 IncludeFile stanzas/oxfordreference.txt
@@ -143,3 +147,4 @@ IncludeFile stanzas/vitaepensiero.txt
 IncludeFile stanzas/VLeBooks.txt
 IncludeFile stanzas/wanfangdata.txt
 IncludeFile stanzas/wiley-blackwell.txt
+IncludeFile stanzas/yad-yitshaq-ben-tsvi.txt

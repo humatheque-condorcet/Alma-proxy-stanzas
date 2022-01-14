@@ -1,4 +1,5 @@
-T   CEEOL (Central and Eastern European Online Library)
+T   CEEOL - Central and Eastern European Online Library
 U	https://www.ceeol.com/
 H	www.ceeol.com
 DJ	ceeol.com
+

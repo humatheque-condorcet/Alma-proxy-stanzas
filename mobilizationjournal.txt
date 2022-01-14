@@ -1,5 +1,9 @@
-Title Mobilization Journal
-H mobilizationjournal.org
+Option DomainCookieOnly
+T Mobilization
+U https://mobilizationjournal.org
+U https://pinnacle-secure.allenpress.com
 D mobilizationjournal.org
-HJ mobilizationjournal.org
-DJ mobilizationjournal.org
+D pinnacle-secure.allenpress.com
+H 65.156.1.66
+HJ https://pinnacle-secure.allenpress.com
+Option Cookie

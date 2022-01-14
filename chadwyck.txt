@@ -2,6 +2,7 @@ Title Chadwyck
 URL http://www.chadwyck.com
 HJ www.chadwyck.com
 DJ chadwyck.com
+D chadwyck.com
 HJ www.chadwyck.co.uk
 DJ chadwyck.co.uk
 
@@ -134,9 +135,8 @@ HJ nstc.chadwyck.com
 
 Title Chadwyck Patrologia Latina
 URL http://pld-old.chadwyck.com
-URL http://pld.chadwyck.co.uk
-HJ pld.chadwyck.co.uk
-HJ pld.chadwyck.com
+URL http://pld.chadwyck.com
+
 
 Title Chadwyck Periodicals Contents Index 
 URL http://pci.chadwyck.com 

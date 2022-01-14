@@ -1,10 +1,17 @@
-Title Wanfangdata
-H www.wanfangdata.com
-D wanfangdata.com
-HJ www.wanfangdata.comit
-DJ wanfangdata.com
-URL http://c.wanfangdata.com.cn/periodical
-H c.wanfangdata.com.cn/periodical
-D wanfangdata.com.cn
-HJ c.wanfangdata.com.cn/periodical
-DJ c.wanfangdata.com.cn
+Option CookiePassThrough
+Title  China Online Journals (by Wanfang Data)
+
+URL http://www.wanfangdata.com.cn
+URL http://wanfangdata.com.cn
+HJ wanfangdata.com.cn
+DJ wanfangdata.com.cn
+
+Find exportClick(this,'.wanfangdata.com.cn')
+Replace exportClick(this,'^L')
+Find exportClick(this, '.wanfangdata.com.cn')
+Replace exportClick(this, '^L')
+Find wfCookieDomain = '.wanfangdata.com.cn'
+Replace wfCookieDomain = '^L'
+Find exportLinkdomain = '.wanfangdata.com.cn';
+Replace exportLinkdomain = '^L'
+Option Cookie

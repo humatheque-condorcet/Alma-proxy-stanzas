@@ -1,3 +1,5 @@
 # Revista española de filosofía medieval. 
 H www.unizar.es
 D unizar.es
+H https://www.uco.es
+D uco.es

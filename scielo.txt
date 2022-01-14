@@ -1,2 +1,12 @@
 Title SciELO - Scientific Electronic Library Online
+U socialsciences.scielo.org
+U www.scielo.br
+U www.scielo.org
+U www.scielosp.org
 H socialsciences.scielo.org
+H www.scielo.org
+H www.scielo.br
+H www.scielosp.org
+D scielo.org
+D scielo.br
+D www.scielosp.org

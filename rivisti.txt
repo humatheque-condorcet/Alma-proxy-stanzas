@@ -1,0 +1,6 @@
+T Rivisti Web (Memoria e Ricerca)
+U https://www.rivisteweb.it/issn/1127-0195
+Host www.rivisteweb.it
+Host https://www.rivisteweb.it
+H www.mulino.it
+D mulino.it

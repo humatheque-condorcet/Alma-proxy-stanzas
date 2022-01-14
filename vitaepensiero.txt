@@ -2,6 +2,12 @@
 T Aevum
 U https://aevum.vitaepensiero.it
 H aevum.vitaepensiero.it
+
 U https://storiadellachiesainitalia.vitaepensiero.it/
 H storiadellachiesainitalia.vitaepensiero.it/
+
+T Studi Sociologia
+U http://studisociologia.vitaepensiero.it
+H studisociologia.vitaepensiero.it
+
 D vitaepensiero.it

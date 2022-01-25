@@ -1,6 +1,4 @@
 Title BECK eLibrary
-URL https://elibrary.chbeck.de
-H elibrary.chbeck.de
-D chbeck.de
-HJ elibrary.chbeck.de
-DJ chbeck.de
+URL http://www.beck-elibrary.de/
+URL https://www.beck-elibrary.de/
+DJ beck-library.de

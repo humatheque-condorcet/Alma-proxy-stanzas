@@ -1,0 +1,6 @@
+Title Arxiu de textos catalans antics
+URL https://publicacions.iec.cat
+URL https://www.raco.cat
+URL http://www.raco.cat
+DJ iec.cat
+DJ raco.cat

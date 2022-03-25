@@ -1,4 +1,4 @@
-Title Renmin Ribao
-H www.people.com.cn
-H data.people.com.cn
-H paper.people.com.cn
+T  Renmin Ribao - Peoples Daily (1946-Present)
+U https://www.oriprobe.com/peoplesdaily.shtml
+H http://data.people.com.cn/
+HJ http://data.people.com.cn/

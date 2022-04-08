@@ -1,4 +1,5 @@
 Title Pakistan Development Review
-URL https://www.thepdr.pk
-URL http://www.thepdr.pk
-DJ thepdr.pk
+#URL https://www.thepdr.pk
+#URL http://www.thepdr.pk
+#DJ thepdr.pk
+RedirectSafe thepdr.pk

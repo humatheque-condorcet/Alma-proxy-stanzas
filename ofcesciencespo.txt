@@ -1,2 +1,6 @@
 Title Revue de l'OFCE
-H www.ofce.sciences-po.fr
+#URL https://www.ofce.sciences-po.fr
+#URL http://www.ofce.sciences-po.fr
+#DJ ofce.sciences-po.fr
+#H www.ofce.sciences-po.fr
+RedirectSafe ofce.sciences-po.fr

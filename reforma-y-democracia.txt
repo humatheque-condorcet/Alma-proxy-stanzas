@@ -1,4 +1,5 @@
 Title Reforma y democracia
-URL https://www.clad.org
-URL http://www.clad.org
-DJ clad.org
+#URL https://www.clad.org
+#URL http://www.clad.org
+#DJ clad.org
+RedirectSafe clad.org

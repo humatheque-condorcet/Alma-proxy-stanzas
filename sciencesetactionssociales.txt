@@ -1,3 +1,4 @@
 Title Sciences-et-actions-sociales
-URL https://sas-revue.org
-URL http://sas-revue.org
+#URL https://sas-revue.org
+#URL http://sas-revue.org
+RedirectSafe sas-revue.org

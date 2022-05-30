@@ -1,4 +1,5 @@
 Title Reading Medieval Studies Archive - University of Reading
-URL https://www.reading.ac.uk
-URL http://www.reading.ac.uk
-DJ reading.ac.uk
+#URL https://www.reading.ac.uk
+#URL http://www.reading.ac.uk
+#DJ reading.ac.uk
+RedirectSafe reading.ac.uk

@@ -1,3 +1,5 @@
 Title Esperantologio
-H https://www.cb.uu.se
-H https://www.esperantic.org
+#H https://www.cb.uu.se
+#H https://www.esperantic.org
+RedirectSafe cb.uu.se
+RedirectSafe esperantic.org

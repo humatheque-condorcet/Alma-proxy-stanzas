@@ -5,6 +5,7 @@ IncludeFile stanzas/aibr.txt
 IncludeFile stanzas/ajph.txt
 IncludeFile stanzas/ajrh.txt
 IncludeFile stanzas/alterstice.txt
+IncludeFile stanzas/archives-audiovisuelles.txt
 IncludeFile stanzas/ash.txt
 IncludeFile stanzas/alexanderstreet.txt
 IncludeFile stanzas/alexanderstreetmarcrecords.txt
@@ -77,6 +78,7 @@ IncludeFile stanzas/india-seminar.txt
 IncludeFile stanzas/ingentaconnect.txt
 IncludeFile stanzas/insee.txt
 IncludeFile stanzas/internationalarthuriansociety.txt
+IncludeFile stanzas/isdpr.txt
 IncludeFile stanzas/jama.txt
 IncludeFile stanzas/journalofjewishstudies.txt
 IncludeFile stanzas/jstor.txt
@@ -117,11 +119,11 @@ IncludeFile stanzas/oxfordmusiconline.txt
 IncludeFile stanzas/oxfordreference.txt
 IncludeFile stanzas/oxford-journals.txt
 IncludeFile stanzas/pakistan-development-review.txt
+IncludeFile stanzas/pakistan-dev-review.txt
 IncludeFile stanzas/pcdnet.txt
 IncludeFile stanzas/peeters.txt
 IncludeFile stanzas/pennpress.txt
 IncludeFile stanzas/persee.txt
-IncludeFile stanzas/pakistan-dev-review.txt
 IncludeFile stanzas/Populationetsocietes.txt
 IncludeFile stanzas/projecteuclid.txt
 IncludeFile stanzas/proquest.txt
@@ -148,6 +150,7 @@ IncludeFile stanzas/rudiae.txt
 IncludeFile stanzas/sage.txt
 IncludeFile stanzas/santeettravail.txt
 IncludeFile stanzas/scholarworks.txt
+IncludeFile stanzas/scholarworks-openaccess.txt
 IncludeFile stanzas/scielo.txt
 IncludeFile stanzas/sciencesetactionssociales.txt
 IncludeFile stanzas/serialsjournals.txt

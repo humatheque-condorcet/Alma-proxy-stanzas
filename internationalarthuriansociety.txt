@@ -1,3 +1,4 @@
 Title Bibliography of the international arthurian society
-URL https://bias.internationalarthuriansociety.com
-DJ internationalarthuriansociety.com
+#URL https://bias.internationalarthuriansociety.com
+#DJ internationalarthuriansociety.com
+RedirectSafe internationalarthuriansociety.com

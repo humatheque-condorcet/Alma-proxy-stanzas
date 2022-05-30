@@ -1,4 +1,5 @@
 Title Oral History Association Newsletter
-URL https://www.oralhistory.org
-URL http://www.oralhistory.org
-DJ oralhistory.org
+#URL https://www.oralhistory.org
+#URL http://www.oralhistory.org
+#DJ oralhistory.org
+RedirectSafe oralhistory.org

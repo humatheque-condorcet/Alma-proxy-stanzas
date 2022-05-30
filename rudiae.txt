@@ -1,4 +1,5 @@
 Title Rudiae
-URL https://siba-ese.unisalento.it
-URL http://siba-ese.unisalento.it
-DJ unisalento.it
+#URL https://siba-ese.unisalento.it
+#URL http://siba-ese.unisalento.it
+#DJ unisalento.it
+RedirectSafe unisalento.it

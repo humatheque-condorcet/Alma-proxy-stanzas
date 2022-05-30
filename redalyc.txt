@@ -1,4 +1,5 @@
 Title REDALyC
-URL https://www.redalyc.org
-URL http://www.redalyc.org
-DJ redalyc.org
+#URL https://www.redalyc.org
+#URL http://www.redalyc.org
+#DJ redalyc.org
+RedirectSafe redalyc.org

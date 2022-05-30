@@ -1,2 +1,3 @@
 Title Revue française des méthodes visuelles.
-H https://rfmv.fr/numeros/
+#H https://rfmv.fr/numeros/
+RedirectSafe rfmv.fr

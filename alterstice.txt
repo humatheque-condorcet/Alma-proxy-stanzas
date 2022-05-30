@@ -1,2 +1,3 @@
 Title Alterstice
-H www.alterstice.org
+#H www.alterstice.org
+RedirectSafe alterstice.org

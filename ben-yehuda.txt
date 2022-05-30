@@ -1,3 +1,5 @@
 Title Project Ben Yehuda
-URL https://bybe.benyehuda.org
-DJ benyehuda.org
+#URL https://bybe.benyehuda.org
+#DJ benyehuda.org
+RedirectSafe benyehuda.org
+

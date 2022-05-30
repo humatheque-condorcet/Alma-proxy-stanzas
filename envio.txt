@@ -1,6 +1,5 @@
 Title Envio Spanish
-URL https://www.envio.org.ni
-URL http://www.envio.org.ni
-DJ envio.org.ni
-
-
+#URL https://www.envio.org.ni
+#URL http://www.envio.org.ni
+#DJ envio.org.ni
+RedirectSafe envio.org.ni

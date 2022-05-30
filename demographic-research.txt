@@ -1,4 +1,5 @@
 Title Demographic Research
-URL https://www.demographic-research.org/
-URL http://www.demographic-research.org/
-DJ demographic-research.org
+#URL https://www.demographic-research.org/
+#URL http://www.demographic-research.org/
+#DJ demographic-research.org
+RedirectSafe demographic-research.org

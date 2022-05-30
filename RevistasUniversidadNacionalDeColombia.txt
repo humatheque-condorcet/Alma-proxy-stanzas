@@ -1,2 +1,3 @@
 Title Revistas universidad nacional de Colombia
-U https://revistas.unal.edu.co
+#U https://revistas.unal.edu.co
+RedirectSafe unal.edu.co

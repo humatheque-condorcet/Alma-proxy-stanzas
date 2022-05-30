@@ -1,4 +1,5 @@
-Title Une semaine en Haïti
-URL https://chf-ressourceshaiti.com
-URL http://chf-ressourceshaiti.com
-DJ chf-ressourceshaiti.com
+Title Une semaine en Haiti
+#URL https://chf-ressourceshaiti.com
+#URL http://chf-ressourceshaiti.com
+#DJ chf-ressourceshaiti.com
+RedirectSafe chf-ressourceshaiti.com

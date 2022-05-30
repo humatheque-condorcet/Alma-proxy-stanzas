@@ -1,3 +1,4 @@
 Title Daily Graphic
-URL https://www.graphic.com.gh
-DJ graphic.com.gh
+#URL https://www.graphic.com.gh
+#DJ graphic.com.gh
+RedirectSafe graphic.com.gh

@@ -1,4 +1,5 @@
 Title Sharq Al-Andalus
-URL https://rua.ua.es
-URL http://rua.ua.es
-DJ ua.es
+#URL https://rua.ua.es
+#URL http://rua.ua.es
+#DJ ua.es
+RedirectSafe ua.es

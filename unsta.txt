@@ -1,2 +1,3 @@
 Title Unsta Argentine
-H https://revistas.unsta.edu.ar
+#H https://revistas.unsta.edu.ar
+RedirectSafe unsta.edu.ar

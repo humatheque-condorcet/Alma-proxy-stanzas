@@ -1,4 +1,5 @@
 Title Revista Mexicana de Sociologia
-URL https://mexicanadesociologia.unam.mx
-URL http://mexicanadesociologia.unam.mx
-DJ unam.mx
+#URL https://mexicanadesociologia.unam.mx
+#URL http://mexicanadesociologia.unam.mx
+#DJ unam.mx
+RedirectSafe unam.mx

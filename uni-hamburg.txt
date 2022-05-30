@@ -1,4 +1,5 @@
 Title Universite Hamburg
-URL https://journals.sub.uni-hamburg.de
-DJ sub.uni-hamburg.de
-DJ uni-hamburg.de
+#URL https://journals.sub.uni-hamburg.de
+#DJ sub.uni-hamburg.de
+#DJ uni-hamburg.de
+RedirectSafe uni-hamburg.de

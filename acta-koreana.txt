@@ -1,4 +1,5 @@
 Title Acta Koreana
-URL https://actakoreana.org
-URL http://actakoreana.org
-DJ actakoreana.org
+#URL https://actakoreana.org
+#URL http://actakoreana.org
+#DJ actakoreana.org
+RedirectSafe actakoreana.org

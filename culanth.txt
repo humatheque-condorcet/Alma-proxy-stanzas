@@ -1,5 +1,6 @@
 Title Cultural Anthropology
-URL https://journal.culanth.org
-DJ culanth.org
+#URL https://journal.culanth.org
+#DJ culanth.org
+RedirectSafe culanth.org
 
 

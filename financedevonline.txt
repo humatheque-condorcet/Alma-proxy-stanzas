@@ -1,5 +1,5 @@
 Title Finance and development online
-URL https://www.imf.org
-URL http://www.imf.org
-DJ imf.org
-
+#URL https://www.imf.org
+#URL http://www.imf.org
+#DJ imf.org
+RedirectSafe imf.org

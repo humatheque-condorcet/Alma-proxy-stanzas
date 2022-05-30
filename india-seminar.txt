@@ -1,4 +1,5 @@
 Title India Seminar
-URL https://www.india-seminar.com
-URL http://www.india-seminar.com
-DJ india-seminar.com
+#URL https://www.india-seminar.com
+#URL http://www.india-seminar.com
+#DJ india-seminar.com
+RedirectSafe india-seminar.com

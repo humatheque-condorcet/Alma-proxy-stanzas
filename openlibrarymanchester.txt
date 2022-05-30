@@ -1,3 +1,4 @@
 Title Ethnicity and Race in a Changing World
-URL https://ercw.openlibrary.manchester.ac.uk
-DJ openlibrary.manchester.ac.uk
+#URL https://ercw.openlibrary.manchester.ac.uk
+#DJ openlibrary.manchester.ac.uk
+RedirectSafe openlibrary.manchester.ac.uk

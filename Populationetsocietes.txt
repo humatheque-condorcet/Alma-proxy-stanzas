@@ -1,2 +1,3 @@
 Title Populations-et-societes
-URL https://www.ined.fr
+#URL https://www.ined.fr
+RedirectSafe ined.fr

@@ -1,3 +1,4 @@
 Title E-Periodica
-URL https://www.e-periodica.ch
-DJ e-periodica.ch
+#URL https://www.e-periodica.ch
+#DJ e-periodica.ch
+RedirectSafe e-periodica.ch

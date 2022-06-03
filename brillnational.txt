@@ -1,0 +1,5 @@
+Title  Brill - Licence nationale
+URL   http://booksandjournals.brillonline.com/
+DJ    booksandjournals.brillonline.com
+HJ    booksandjournals.brillonline.com
+Host www.nijhoffonline.nl

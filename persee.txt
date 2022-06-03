@@ -1,4 +1,6 @@
 T Persee
-URL https://www.persee.fr/
-H www.persee.fr
-H www.caf.fr 
+#URL https://www.persee.fr/
+#H www.persee.fr
+#H www.caf.fr 
+RedirectSafe persee.fr
+RedirectSafe caf.fr

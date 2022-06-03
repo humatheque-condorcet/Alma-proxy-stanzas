@@ -1,0 +1,4 @@
+Title          Brill - Chinese Reference
+URL            http://chinesereferenceshelf.brillonline.com/
+Host           chinesereferenceshelf.brillonline.com
+

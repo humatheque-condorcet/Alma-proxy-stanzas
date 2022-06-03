@@ -1,7 +1,7 @@
 AnonymousURL +https://search.openedition.org/*
 AnonymousURL +https://search-api.openedition.org/*
 Title OpenEdition (updated 20190305)
-URL http://www.openedition.org
+URL https://www.openedition.org
 NeverProxy static.openedition.org
 NeverProxy static-origin.openedition.org
 DJ openedition.org

@@ -1,5 +1,4 @@
 T Alternatives-economiques
 U http://abo.alternatives-economiques.fr/vpc/revues/sante-travail
 H abo.alternatives-economiques.fr
-H www.persee.fr
-
+#H www.persee.fr

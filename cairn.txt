@@ -2,7 +2,5 @@ Title Cairn (updated 20171206)
 URL https://www.cairn.info/
 HJ https://www.cairn.info
 HJ https://www.cairn-int.info
-HJ https://www.cairn.info
-HJ https://www.cairn-int.info
 DJ cairn.info
 DJ cairn-int.info

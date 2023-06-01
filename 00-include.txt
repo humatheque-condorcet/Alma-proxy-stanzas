@@ -6,6 +6,7 @@ IncludeFile stanzas/ajph.txt
 IncludeFile stanzas/ajrh.txt
 IncludeFile stanzas/alterstice.txt
 IncludeFile stanzas/archives-audiovisuelles.txt
+IncludeFile stanzas/archives-ouvertes.txt
 IncludeFile stanzas/ash.txt
 IncludeFile stanzas/alexanderstreet.txt
 IncludeFile stanzas/alexanderstreetmarcrecords.txt
@@ -14,8 +15,10 @@ IncludeFile stanzas/annalesislamologiques.txt
 IncludeFile stanzas/annualreviews.txt
 IncludeFile stanzas/apsjournals.txt
 IncludeFile stanzas/arxiu-textos-catalans-antics.txt
+IncludeFile stanzas/bdsl-online.txt
 IncludeFile stanzas/ben-yehuda.txt
 IncludeFile stanzas/berghahnbooks.txt
+IncludeFile stanzas/biblioscout.txt
 IncludeFile stanzas/bihr.txt
 IncludeFile stanzas/brepolisnet.txt
 IncludeFile stanzas/brepolsjournal.txt
@@ -33,6 +36,7 @@ IncludeFile stanzas/chbeck.txt
 IncludeFile stanzas/chinaasiaondemand.txt
 IncludeFile stanzas/chinese-periodical-db.txt
 IncludeFile stanzas/choicereviews.txt
+IncludeFile stanzas/cimi.txt
 IncludeFile stanzas/classiques-garnier.txt
 IncludeFile stanzas/cnki.txt
 IncludeFile stanzas/cresoi.txt
@@ -57,6 +61,7 @@ IncludeFile stanzas/dunckerhumblot.txt
 IncludeFile stanzas/e-periodica.txt
 IncludeFile stanzas/eastview.txt
 IncludeFile stanzas/EBSCOhost.txt
+IncludeFile stanzas/ebsees.txt
 IncludeFile stanzas/economiepolitique.txt
 IncludeFile stanzas/ehraf.txt
 IncludeFile stanzas/eliphi.txt
@@ -76,12 +81,14 @@ IncludeFile stanzas/financedevonline.txt
 IncludeFile stanzas/fpaindia.txt
 IncludeFile stanzas/fupress.txt
 IncludeFile stanzas/gale.txt
+IncludeFile stanzas/gallica.txt
 IncludeFile stanzas/gesis.txt
 IncludeFile stanzas/glossa.txt
 IncludeFile stanzas/glottopole.txt
 IncludeFile stanzas/harrassowitz.txt
 IncludeFile stanzas/hrcak.txt
 IncludeFile stanzas/hcsp.txt
+IncludeFile stanzas/hyperbourdieu.txt
 IncludeFile stanzas/india-seminar.txt
 IncludeFile stanzas/ingentaconnect.txt
 IncludeFile stanzas/insee.txt
@@ -100,6 +107,7 @@ IncludeFile stanzas/lcdpu.txt
 IncludeFile stanzas/letraslibres.txt
 IncludeFile stanzas/lexisnexis.txt
 IncludeFile stanzas/liverpoolpress.txt
+IncludeFile stanzas/localpopulationstudies.txt
 IncludeFile stanzas/lockwood.txt
 IncludeFile stanzas/loebclassics.txt
 IncludeFile stanzas/maitron.txt
@@ -151,10 +159,11 @@ IncludeFile stanzas/Renmindaxue.txt
 IncludeFile stanzas/regards.txt
 IncludeFile stanzas/renmin-ribao.txt
 IncludeFile stanzas/retronews.txt
-IncludeFile stanzas/RevistasUniversidadNacionalDeColombia.txt
 IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revista-mexicana-sociologia.txt
+IncludeFile stanzas/revistafal.txt
 IncludeFile stanzas/revistas-ucm.txt
+IncludeFile stanzas/RevistasUniversidadNacionalDeColombia.txt
 IncludeFile stanzas/RevueFrancaiseMethodesVisuelles.txt
 IncludeFile stanzas/revue-histoire-maths.txt
 IncludeFile stanzas/rhmjournal.txt
@@ -180,11 +189,15 @@ IncludeFile stanzas/summa-upsa.txt
 IncludeFile stanzas/tandf.txt
 IncludeFile stanzas/tandfebooks.txt
 IncludeFile stanzas/thepolynesiansociety.txt
+IncludeFile stanzas/theindexprinceton.txt
+IncludeFile stanzas/thesesfr.txt
 IncludeFile stanzas/tidsskrift.txt
 IncludeFile stanzas/torrossa-casalini-libraweb.txt
 IncludeFile stanzas/transasiaphotography.txt
+IncludeFile stanzas/trismegistos.txt
 IncludeFile stanzas/ucp.txt
 IncludeFile stanzas/une-semaine-en-haiti.txt
+IncludeFile stanzas/universite-bern.txt
 IncludeFile stanzas/uni-hamburg.txt
 IncludeFile stanzas/uni-tuebingen.txt
 IncludeFile stanzas/unizar.txt
